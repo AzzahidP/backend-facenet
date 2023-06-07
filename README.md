@@ -2,7 +2,7 @@
 
 #### Demo
 
-* Web UI -> https://app.azzahid.me)
+* Web UI -> https://app.azzahid.me
 
 #### References
 

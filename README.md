@@ -2,8 +2,7 @@
 
 #### Demo
 
-* [Web UI](https://app.azzahid.me)
-* [API](https://api.azzahid.me)
+* Web UI -> https://app.azzahid.me)
 
 #### References
 

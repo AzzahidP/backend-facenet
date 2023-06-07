@@ -22,7 +22,7 @@ def verify_from_db(Model, min_dist, vector_input):
         if dist < min_dist:
             min_dist = dist
             identity = rows.full_name 
-
+    
     return identity
 
 def get_all_details(Model, key):
